@@ -1,0 +1,67 @@
+{
+  "mahasiswa": [
+    {
+      "nama": "Adinda Dwi Humaira",
+      "nim": "21/478319/SV/19263",
+      "kelas": "A",
+      "jeniskelamin": "Perempuan",
+      "color": "#84A2D7",
+      "icon": "paw",
+      "id": 2
+    },
+    {
+      "nama": "Adzkia Rahmatillah",
+      "nim": "21/479147/SV/19445",
+      "kelas": "A",
+      "jeniskelamin": "Perempuan",
+      "color": "#E6E260",
+      "icon": "cloud-moon",
+      "id": 3
+    },
+    {
+      "nama": "Aisyah Nadiyah Rusdiana",
+      "nim": "21/473011/SV/18795",
+      "kelas": "A",
+      "jeniskelamin": "Perempuan",
+      "color": "#C70039",
+      "icon": "pastafarianism",
+      "id": 4
+    },
+    {
+      "nama": "Anissa Sephia Wulandari",
+      "nim": "21/474596/SV/18989",
+      "kelas": "A",
+      "jeniskelamin": "Perempuan",
+      "color": "#C09EFF",
+      "icon": "star",
+      "id": 5
+    },
+    {
+      "nama": "Az Zahra Maudy Dia Ul Haq",
+      "nim": "21/478713/SV/19366",
+      "kelas": "A",
+      "jeniskelamin": "Perempuan",
+      "color": "#DCBFFF",
+      "icon": "fan",
+      "id": 6
+    },
+    {
+      "nama": "Adinda Dwi Humaira",
+      "nim": "21/478319/SV/19263",
+      "kelas": "A",
+      "jeniskelamin": "Perempuan",
+      "color": "#84A2D7",
+      "icon": "fan",
+      "id": 7
+    },
+    {
+      "nama": "Adinda Dwi Humaira",
+      "nim": "21/478319/SV/19263",
+      "kelas": "A",
+      "jeniskelamin": "Perempuan",
+      "color": "#84A2D7",
+      "icon": "user",
+      "id": 8
+    }
+  ]
+}
